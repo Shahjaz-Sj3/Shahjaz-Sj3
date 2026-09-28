@@ -1,4 +1,4 @@
-# Hi, I'm Shahjaz Saleem 👋
+# Hi, I'm Shahjaz Saleem 
 
 ### Full-Stack Developer | MERN | Python | Flutter | AI/ML
 
@@ -10,7 +10,7 @@ production-oriented applications across web, mobile, and backend systems.
 
 ---
 
-## 🚀 What I Work With
+##  What I Work With
 
 ### Frontend
 - React.js
@@ -52,9 +52,9 @@ production-oriented applications across web, mobile, and backend systems.
 
 ---
 
-## 💻 Featured Projects
+##  Featured Projects
 
-### 🤖 AI Job Portal
+###  AI Job Portal
 AI-powered job platform built with the MERN stack featuring
 AI-assisted resume processing and job matching.
 
@@ -62,7 +62,7 @@ AI-assisted resume processing and job matching.
 
 ---
 
-### 🎬 Cinescope+
+###  Cinescope+
 Movie recommendation platform built with Python and Flask.
 
 Features include content-based recommendation using TF-IDF and
@@ -72,14 +72,14 @@ cosine similarity, TMDB API integration, and a Netflix-inspired UI.
 
 ---
 
-### 🏟️ Sportify
+###  Sportify
 Django-based turf booking management system.
 
 **Tech:** Python • Django • SQLite • HTML • CSS • JavaScript
 
 ---
 
-### 🗳️ Vote+
+###  Vote+
 Election management platform supporting role-based workflows,
 election management, nominee handling, voter workflows,
 dashboards, and result management.
@@ -88,7 +88,7 @@ dashboards, and result management.
 
 ---
 
-## 🧑‍💻 Professional Experience
+##  Professional Experience
 
 **D4DX Innovations**
 
@@ -111,21 +111,21 @@ Areas I've worked on include:
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 I actively work on software projects and contribute to
 production-oriented applications.
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - LinkedIn: [Shahjaz Saleem](https://www.linkedin.com/in/shahjaz-saleem-3a748227b/)
 - GitHub: [Shahjaz-Sj3](https://github.com/Shahjaz-Sj3)
 
 ---
 
-### ⚡ Currently Learning
+###  Currently Learning
 
 - Advanced Backend Architecture
 - System Design
